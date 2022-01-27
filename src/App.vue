@@ -18,6 +18,6 @@ export default {
 <style>
 body{
   text-align: center;
-  background-image: url('./assets/imagenes/tareas.jpg');
+  background: linear-gradient(#723185, #F477A2);
 }
 </style>
