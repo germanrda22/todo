@@ -168,6 +168,7 @@ export default {
     opacity: 75%;
     color: white;
     margin-bottom: 10px;
+    z-index: 2;
 }
 
 div ul{
