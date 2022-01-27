@@ -18,5 +18,6 @@ export default {
 <style>
 body{
   text-align: center;
+  background-image: url('./assets/imagenes/tareas.jpg');
 }
 </style>
